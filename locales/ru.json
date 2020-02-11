@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Home Ru",
+    "introduction": "This is an introduction in Russian."
+  },
+  "about": {
+    "title": "About Ru",
+    "introduction": "This is an introduction in Russian."
+  },
+  "contact": {
+    "title": "Contact Ru",
+    "introduction": "This is an introduction in Russian."
+  }
+}

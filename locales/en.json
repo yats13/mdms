@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Home",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This is an introduction in English."
+  },
+  "contact": {
+    "title": "Contact",
+    "introduction": "This is an introduction in English."
+  }
+}
